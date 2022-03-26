@@ -1,5 +1,5 @@
 # Using Python Slim-Buster
-FROM xluxz/geezproject:buster
+FROM kyyex/kyy-userbot:busterv2
 # BAGAS-USERBOT
 # BAGAS
 
